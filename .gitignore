@@ -1,3 +1,6 @@
 # Ignore Emacs autosave files
 
 *~
+
+# Don't bother tracking object files
+*.o
